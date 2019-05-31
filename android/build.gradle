@@ -19,9 +19,9 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:23.4.0'
-    compile 'com.facebook.react:react-native:+'
-    compile 'com.google.zxing:core:3.2.1'
-    provided fileTree(dir: '../../../android/app/libs', include: ['*.jar']) // from root project
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:23.4.0'
+    implementation 'com.facebook.react:react-native:+'
+    implementation 'com.google.zxing:core:3.3.3'
+    compileOnly fileTree(dir: '../../../android/app/libs', include: ['*.jar']) // from root project
 }
