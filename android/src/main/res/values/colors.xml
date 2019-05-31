@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+  <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+  <color name="result_text">#ff000000</color>
+  
+  <!--<color name="transparent">#00000000</color>-->
+  <!--<color name="viewfinder_laser">#ffcc0000</color> &lt;!&ndash; Android standard ICS color &ndash;&gt;-->
+  <!--<color name="viewfinder_mask">#cb000000</color>-->
+  <!--<color name="viewfinder_frame">#ff4EEE94</color>&lt;!&ndash; #ff0000ff &ndash;&gt;-->
+  <color name="backgroud">#ffffffff</color>
+  <color name="title_tv_color">#ffffffff</color>
+
+  <color name="transparent">#00000000</color>
+  <color name="viewfinder_frame">#ff000000</color>
+  <color name="viewfinder_laser">#ffff0000</color>
+  <color name="viewfinder_mask">#60000000</color>
+  
+</resources>

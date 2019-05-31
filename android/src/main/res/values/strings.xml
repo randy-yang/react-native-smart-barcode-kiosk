@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QRCode_Zxing</string>
+    <!--<string name="app_name">sdkDemo</string>-->
+    <string name="settings_pref_category_2d_title">2D Barcodes</string>
+    <string name="settings_pref_category_1d_title">1D Barcodes</string>
+    <string name="settings_qrcode_title">QR Code</string>
+    <string name="settings_dmcode_title">Data Matrix</string>
+    <string name="settings_ean_title">EAN8/13</string>
+    <string name="settings_code39_title">Code39</string>
+    <string name="settings_code128_title">Code128</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="title_about">QuickMarkSDK Demo</string>
+    <string name="msg_about">Demonstrates how to use QuickMarkSDK.\n\nCopyright ©2010\n\nSimpleAct Inc. All rights reserved.</string>
+    <string name="about_weburl">http://www.quickmark.com.tw</string>
+    <string name="button_open_browser">Open browser</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
